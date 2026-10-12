@@ -1,0 +1,61 @@
+22:46:34  Iniciando: 1 ano(s). CSVs lidos de C:\Users\Vanessa\Desktop\ProgTURISMO\rais-turismo\csv; dados gravados em C:\Users\Vanessa\Desktop\ProgTURISMO\rais-turismo\dados_turismo
+22:46:36  AVISO: sem nomes da CNAE 1.0 (anos 2000–2005): salve a tabela oficial do IBGE (CNAE1.0.xls, https://concla.ibge.gov.br/images/concla/downloads/CNAE1.0.xls) como CSV em C:\Users\Vanessa\Desktop\ProgTURISMO\rais-turismo\dados_turismo\apoio\cnae95_classes.csv e rode de novo (Refazer). Sem ela ficam só os códigos.
+22:46:36  Recorte: 29 municípios da RMS de Sorocaba.
+22:46:36  2000: FALHOU — não achei CSV do ano 2000 em C:\Users\Vanessa\Desktop\ProgTURISMO\rais-turismo\csv (o nome do arquivo precisa conter o ano, ex.: rais_2000.csv)
+22:46:36  Fim: 0 ok, 1 com falha.
+23:18:20  Iniciando: 1 ano(s). CSVs lidos de D:\2000_2025ParaValidação; dados gravados em C:\Users\Vanessa\Desktop\ProgTURISMO\rais-turismo\dados_turismo
+23:18:20  AVISO: sem nomes da CNAE 1.0 (anos 2000–2005): salve a tabela oficial do IBGE (CNAE1.0.xls, https://concla.ibge.gov.br/images/concla/downloads/CNAE1.0.xls) como CSV em C:\Users\Vanessa\Desktop\ProgTURISMO\rais-turismo\dados_turismo\apoio\cnae95_classes.csv e rode de novo (Refazer). Sem ela ficam só os códigos.
+23:18:20  Recorte: 29 municípios da RMS de Sorocaba.
+23:18:20  2000: lendo D:\2000_2025ParaValidação\rais_2000_2000.csv (143 MB)
+23:18:20  2000: 31 colunas no arquivo, 29 reconhecidas (latin-1, separador ";"). Detalhe em diagnostico/colunas_2000.csv
+23:18:20  ATENÇÃO 2000: coluna de escolaridade não encontrada no cabeçalho. Colunas não usadas: ano | municipio_nome
+23:18:22  2000: OK — 510301 vínculos de 510301 linhas lidas.
+23:18:22  2000: CONFERÊNCIA — lidas 510301 = recorte 510301 + mesma UF fora do recorte 0 + outra UF 0 + curtas 0 + inválidas 0 (diferença 0). Detalhe em diagnostico/conferencia_2000.csv
+23:18:22  Fim: 1 ok, 0 com falha.
+23:24:20  Iniciando: 11 ano(s). CSVs lidos de D:\2000_2025ParaValidação; dados gravados em C:\Users\Vanessa\Desktop\ProgTURISMO\rais-turismo\dados_turismo
+23:24:20  AVISO: sem nomes da CNAE 1.0 (anos 2000–2005): salve a tabela oficial do IBGE (CNAE1.0.xls, https://concla.ibge.gov.br/images/concla/downloads/CNAE1.0.xls) como CSV em C:\Users\Vanessa\Desktop\ProgTURISMO\rais-turismo\dados_turismo\apoio\cnae95_classes.csv e rode de novo (Refazer). Sem ela ficam só os códigos.
+23:24:20  Recorte: 29 municípios da RMS de Sorocaba.
+23:24:20  2001: lendo D:\2000_2025ParaValidação\rais_2001_2001.csv (144 MB)
+23:24:20  2001: 32 colunas no arquivo, 30 reconhecidas (latin-1, separador ";"). Detalhe em diagnostico/colunas_2001.csv
+23:24:20  ATENÇÃO 2001: coluna de escolaridade não encontrada no cabeçalho. Colunas não usadas: ano | municipio_nome
+23:24:22  2001: OK — 508217 vínculos de 508217 linhas lidas.
+23:24:22  2001: CONFERÊNCIA — lidas 508217 = recorte 508217 + mesma UF fora do recorte 0 + outra UF 0 + curtas 0 + inválidas 0 (diferença 0). Detalhe em diagnostico/conferencia_2001.csv
+23:24:22  2002: lendo D:\2000_2025ParaValidação\rais_2002_2002.csv (210 MB)
+23:24:22  2002: 38 colunas no arquivo, 35 reconhecidas (latin-1, separador ";"). Detalhe em diagnostico/colunas_2002.csv
+23:24:22  ATENÇÃO 2002: coluna de escolaridade não encontrada no cabeçalho. Colunas não usadas: ano | municipio_nome | mun_trab_nome
+23:24:25  2002: OK — 476414 vínculos de 476414 linhas lidas.
+23:24:25  2002: CONFERÊNCIA — lidas 476414 = recorte 476414 + mesma UF fora do recorte 0 + outra UF 0 + curtas 0 + inválidas 0 (diferença 0). Detalhe em diagnostico/conferencia_2002.csv
+23:24:25  2003: lendo D:\2000_2025ParaValidação\rais_2003_2003.csv (252 MB)
+23:24:25  2003: 43 colunas no arquivo, 35 reconhecidas (latin-1, separador ";"). Detalhe em diagnostico/colunas_2003.csv
+23:24:25  ATENÇÃO 2003: coluna de escolaridade não encontrada no cabeçalho. Colunas não usadas: ano | municipio_nome | mun_trab_nome | cbo_2002_nome | cbo_familia_nome | cbo_subgrupo_nome | cbo_subgrupo_principal_nome | cbo_grande_grupo_nome
+23:24:28  2003: OK — 470717 vínculos de 470717 linhas lidas.
+23:24:28  2003: CONFERÊNCIA — lidas 470717 = recorte 470717 + mesma UF fora do recorte 0 + outra UF 0 + curtas 0 + inválidas 0 (diferença 0). Detalhe em diagnostico/conferencia_2003.csv
+23:24:28  2004: lendo D:\2000_2025ParaValidação\rais_2004_2004.csv (274 MB)
+23:24:28  2004: 47 colunas no arquivo, 37 reconhecidas (latin-1, separador ";"). Detalhe em diagnostico/colunas_2004.csv
+23:24:28  ATENÇÃO 2004: coluna de escolaridade não encontrada no cabeçalho. Colunas não usadas: ano | municipio_nome | mun_trab_nome | cbo_2002_nome | cbo_familia_nome | cbo_subgrupo_nome | cbo_subgrupo_principal_nome | cbo_grande_grupo_nome | cnae20_classe_nome | cnae20_subclasse_nome
+23:24:32  2004: OK — 498514 vínculos de 498514 linhas lidas.
+23:24:32  2004: CONFERÊNCIA — lidas 498514 = recorte 498514 + mesma UF fora do recorte 0 + outra UF 0 + curtas 0 + inválidas 0 (diferença 0). Detalhe em diagnostico/conferencia_2004.csv
+23:24:32  2005: lendo D:\2000_2025ParaValidação\rais_2005_2005.csv (306 MB)
+23:24:32  2005: 47 colunas no arquivo, 37 reconhecidas (latin-1, separador ";"). Detalhe em diagnostico/colunas_2005.csv
+23:24:32  ATENÇÃO 2005: coluna de escolaridade não encontrada no cabeçalho. Colunas não usadas: ano | municipio_nome | mun_trab_nome | cbo_2002_nome | cbo_familia_nome | cbo_subgrupo_nome | cbo_subgrupo_principal_nome | cbo_grande_grupo_nome | cnae20_classe_nome | cnae20_subclasse_nome
+23:24:35  2005: OK — 549217 vínculos de 549217 linhas lidas.
+23:24:35  2005: CONFERÊNCIA — lidas 549217 = recorte 549217 + mesma UF fora do recorte 0 + outra UF 0 + curtas 0 + inválidas 0 (diferença 0). Detalhe em diagnostico/conferencia_2005.csv
+23:24:35  2006: lendo D:\2000_2025ParaValidação\rais_2006_2006.csv (394 MB)
+23:24:36  2006: 49 colunas no arquivo, 39 reconhecidas (latin-1, separador ";"). Detalhe em diagnostico/colunas_2006.csv
+23:24:40  2006: FALHOU — write C:\Users\Vanessa\Desktop\ProgTURISMO\rais-turismo\dados_turismo\cols\rais_2006.rcol.tmp: Espaço insuficiente no disco.
+23:24:40  2007: lendo D:\2000_2025ParaValidação\rais_2007_2007.csv (432 MB)
+23:24:40  2007: 51 colunas no arquivo, 41 reconhecidas (latin-1, separador ";"). Detalhe em diagnostico/colunas_2007.csv
+23:24:45  2007: FALHOU — write C:\Users\Vanessa\Desktop\ProgTURISMO\rais-turismo\dados_turismo\cols\rais_2007.rcol.tmp: Espaço insuficiente no disco.
+23:24:45  2008: lendo D:\2000_2025ParaValidação\rais_2008_2008.csv (486 MB)
+23:24:45  2008: 51 colunas no arquivo, 41 reconhecidas (latin-1, separador ";"). Detalhe em diagnostico/colunas_2008.csv
+23:24:50  2008: FALHOU — write C:\Users\Vanessa\Desktop\ProgTURISMO\rais-turismo\dados_turismo\cols\rais_2008.rcol.tmp: Espaço insuficiente no disco.
+23:24:50  2009: lendo D:\2000_2025ParaValidação\rais_2009_2009.csv (485 MB)
+23:24:50  2009: 51 colunas no arquivo, 41 reconhecidas (latin-1, separador ";"). Detalhe em diagnostico/colunas_2009.csv
+23:24:55  2009: FALHOU — write C:\Users\Vanessa\Desktop\ProgTURISMO\rais-turismo\dados_turismo\cols\rais_2009.rcol.tmp: Espaço insuficiente no disco.
+23:24:55  2010: lendo D:\2000_2025ParaValidação\rais_2010_2010.csv (572 MB)
+23:24:55  2010: 51 colunas no arquivo, 41 reconhecidas (latin-1, separador ";"). Detalhe em diagnostico/colunas_2010.csv
+23:25:02  2010: FALHOU — write C:\Users\Vanessa\Desktop\ProgTURISMO\rais-turismo\dados_turismo\cols\rais_2010.rcol.tmp: Espaço insuficiente no disco.
+23:25:02  2011: lendo D:\2000_2025ParaValidação\rais_2011_2011.csv (619 MB)
+23:25:02  2011: 51 colunas no arquivo, 41 reconhecidas (latin-1, separador ";"). Detalhe em diagnostico/colunas_2011.csv
+23:25:08  2011: FALHOU — write C:\Users\Vanessa\Desktop\ProgTURISMO\rais-turismo\dados_turismo\cols\rais_2011.rcol.tmp: Espaço insuficiente no disco.
+23:25:08  Fim: 5 ok, 6 com falha.

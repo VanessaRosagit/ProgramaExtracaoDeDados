@@ -1,0 +1,26 @@
+{
+  "pasta_csv": "D:\\2000_2025ParaValidação",
+  "pasta_dados": "D:\\rais-turismo",
+  "uf": "SP",
+  "ano_inicial": 2000,
+  "ano_final": 2025,
+  "ibge_api": "https://servicodados.ibge.gov.br",
+  "porta": 8766,
+  "cbos_extra": [
+    {
+      "cod": "513405",
+      "nome": "Garçom",
+      "grupo": ""
+    },
+    {
+      "cod": "513410",
+      "nome": "Sommelier",
+      "grupo": ""
+    },
+    {
+      "cod": "513415",
+      "nome": "Cumim",
+      "grupo": ""
+    }
+  ]
+}
