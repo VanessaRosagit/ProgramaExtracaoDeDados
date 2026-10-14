@@ -1,1 +1,0 @@
-Coloque aqui (ou aponte em Configuracoes) os CSVs de cada ano. O programa so le; nao altera nem apaga.
